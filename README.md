@@ -1,4 +1,4 @@
-# CIPWizard--Custom-Image-Processor-Wizard
+# CIPWizard-(Custom-Image-Processor-Wizard)
 ### Customized Image Processing App
 
 This is a customized image processing application built using Python and Tkinter. The application allows users to perform various operations on images such as converting to different color spaces, adjusting brightness/contrast, applying edge detection, and more.
