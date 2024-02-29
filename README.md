@@ -42,9 +42,9 @@ To run the application, follow these steps:
 - scikit-image (for edge detection)
 
 ## Screenshots
-
+### Image
 ![Screenshot 1](screenshot_1.jpg)
-
+### Processing (e.g.Converting it to binary on 90 threshold)
 ![Screenshot 2](screenshot_2.png)
 
 ## Contributing
